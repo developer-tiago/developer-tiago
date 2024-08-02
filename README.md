@@ -10,12 +10,12 @@ I love programming, technology and marketing 👨‍💻
 
 #### Current stack
 - ⚡️ Main language: `Javascript`
-- 🎉 Frontend: `HTML5`, `SCSS`, `Vue.js`, `Nuxt.js` e `Bootstrap`
+- 🎉 Frontend: `HTML5`, `SCSS`, `Vue.js`, `Nuxt.js` and `Bootstrap`
 - 🎨 Layout Design: `Figma`
-- 📦️ Version Control: `Git & Github`
+- 📦️ Version Control: `Git`, `Gitlab` and `Github`
 - 🔨 Tools: `VsCode`, `Markdown`
-- ⚙ Others Tools: `RESTful APIs` e `Design Patterns`
-- 🔒 Backend: `PHP`, ` Laravel` e `MYSQL`
+- ⚙ Others Tools: `RESTful APIs` and `Design Patterns`
+- 🔒 Backend: `PHP`, ` Laravel` and `MYSQL`
 
 <div>
   <img style="height: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
