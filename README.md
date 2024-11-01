@@ -34,8 +34,8 @@ I love programming, technology and marketing 👨‍💻
   <img style="height: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 </div>
 
-### Learning and reconnecting
-- `Cypress` e `Node.js`
+### Learning...
+- `Typescript` and `Tailwind CSS`
 
 #### Contacts
 
