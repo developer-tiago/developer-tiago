@@ -9,13 +9,13 @@ I am passionate about technology and innovation. With a solid background and pra
 I love programming, technology and marketing 👨‍💻
 
 #### Current stack
-- ⚡️ Main language: `Javascript`
+- ⚡️ Main language: `Javascript` and `PHP`
 - 🎉 Frontend: `HTML5`, `SCSS`, `Vue.js`, `Nuxt.js`, `Tailwind CSS` and `Bootstrap`
-- 🎨 Layout Design: `Figma`
+- 🎨 Layout Design: `Figma` and `Excalidraw`
 - 📦️ Version Control: `Git`, `Gitlab` and `Github`
-- 🔨 Tools: `VsCode`, `Markdown`
+- 🔨 Tools: `VsCode`, `Markdown` and `PHPStorm`
 - ⚙ Others Tools: `RESTful APIs` and `Design Patterns`
-- 🔒 Backend: `PHP`, ` Laravel` and `MYSQL`
+- 🔒 Backend: `PHP (Laravel)` and `MYSQL`
 
 <div>
   <img style="height: 25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
