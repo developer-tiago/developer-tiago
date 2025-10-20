@@ -10,7 +10,7 @@ I love programming, technology and marketing 👨‍💻
 
 #### Current stack
 - ⚡️ Main language: `Javascript`
-- 🎉 Frontend: `HTML5`, `SCSS`, `Vue.js`, `Nuxt.js` and `Bootstrap`
+- 🎉 Frontend: `HTML5`, `SCSS`, `Vue.js`, `Nuxt.js`, `Tailwind CSS` and `Bootstrap`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version Control: `Git`, `Gitlab` and `Github`
 - 🔨 Tools: `VsCode`, `Markdown`
