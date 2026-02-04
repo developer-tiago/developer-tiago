@@ -8,8 +8,6 @@ Full-stack developer focused on building **scalable web applications**, clean ar
 
 I work mainly with **Vue 3 / Nuxt 3 on the frontend** and **Laravel on the backend**, always applying best practices like **TypeScript**, **state management with Pinia**, RESTful design and modular code organization.
 
-I enjoy turning complex business rules into simple, maintainable software — especially in multi-tenant and white-label environments.
-
 ---
 
 ### 🧠 Tech Stack
