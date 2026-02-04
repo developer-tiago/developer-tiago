@@ -95,7 +95,7 @@ I enjoy turning complex business rules into simple, maintainable software — es
 ---
 
 ### 🧪 Projects / Portfolio
-- 🌐 https://tomazzo.com.br
+- 🍅 https://tomazzo.com.br
 - 🌐 https://transportadoraalmeida.com.br  
 - 📝 https://rocketnotesproject.netlify.app  
 - 🍔 https://foodexplorerproject.netlify.app  
