@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hello World 👋</h1>
+  <h1>Olá, Mundo! 👋</h1>
 </div>
 
-## Hi, I'm Tiago Paulo — Full-Stack Developer 🚀
+## Oi, eu sou o Tiago Paulo — Desenvolvedor Full-Stack 🚀
 
-Full-stack developer focused on building **scalable web applications**, clean architectures and well-structured APIs.
+Desenvolvedor Full-stack focado na construção de aplicações web escaláveis, arquiteturas limpas e APIs bem estruturadas.
 
-I work mainly with **Vue 3 / Nuxt 3 on the frontend** and **Laravel on the backend**, always applying best practices like **TypeScript**, **state management with Pinia**, RESTful design and modular code organization.
+Trabalho principalmente com Vue 3 / Nuxt 3 no frontend e Laravel no backend, sempre aplicando as melhores práticas como TypeScript, gerenciamento de estado com Pinia, design RESTful e organização de código modular.
 
 ---
 
@@ -21,7 +21,10 @@ I work mainly with **Vue 3 / Nuxt 3 on the frontend** and **Laravel on the backe
 - Nuxt 3
 - Tailwind CSS
 - Bootstrap
-- HTML5 / SCSS
+- DaisyUI
+- HTML5
+- CSS
+- SCSS
 
 #### 🔐 Backend
 - Laravel
@@ -30,13 +33,13 @@ I work mainly with **Vue 3 / Nuxt 3 on the frontend** and **Laravel on the backe
 - Queues & Jobs
 - Migrations & Seeders
 
-#### 🗂 State & Architecture
+#### 🗂 Estado & Arquitetura
 - Pinia
 - Design Patterns
 - Modular architecture
 - API-driven frontend
 
-#### 🛠 Tools
+#### 🛠 Ferramentas
 - VSCode / PHPStorm  
 - Git / GitHub / GitLab  
 - Postman / Insomnia  
@@ -45,42 +48,41 @@ I work mainly with **Vue 3 / Nuxt 3 on the frontend** and **Laravel on the backe
 
 ---
 
-### ⚙ What I usually build
+### ⚙ O que eu costumo desenvolver
 
-- SaaS platforms
-- Multi-tenant systems (subdomains + company isolation)
-- Dashboards and admin panels
-- API-first applications
-- White-label products
-- Auth systems with roles & permissions
-- Queue-based processes
-
----
-
-### 🚀 Currently improving
-
-- Advanced TypeScript patterns in Nuxt 3  
-- Software architecture  
-- AI agents & local LLM experiments  
-- Performance optimization on Laravel APIs  
+- Plataformas SaaS
+- Sistemas Multi-tenant (subdomínios + isolamento por empresa)
+- Dashboards e painéis administrativos
+- Aplicações "API-first"
+- Produtos White-label
+- Sistemas de autenticação com níveis de acesso (Roles & Permissions)
+- Processamentos baseados em filas
 
 ---
 
-### 📫 Contacts
+### 🚀 Atualmente me aperfeiçoando em
+
+- Arquitetura de Software  
+- Agentes de IA e experimentos com LLMs locais  
+- Otimização de performance em APIs Laravel  
+
+---
+
+### 📫 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-paulo-nascimento/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiaggo_p/)
 
 ---
 
-### 🧪 Projects / Portfolio
+### 🧪 Projetos / Portfólio
 - 🍅 https://tomazzo.com.br
 - 🌐 https://transportadoraalmeida.com.br  
 - 📝 https://rocketnotesproject.netlify.app  
 - 🍔 https://foodexplorerproject.netlify.app  
 
-> Some projects may take a few seconds to wake up due to server cold start.
+> Alguns projetos podem levar alguns segundos para carregar devido ao "cold start" do servidor.
 
 ---
 
-⭐ Always open to collaboration and challenging projects.
+⭐ Sempre aberto a colaborações e projetos desafiadores.
